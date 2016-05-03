@@ -1,0 +1,124 @@
+.banner{
+  background-color: blue;
+  padding:50px;
+  max-width: 980px;
+  margin:auto;
+}
+.nav{
+  max-width: 980px;
+  float:right;
+}
+a.navbar-brand{
+  position: relative;
+  margin: -10px 0px 50px 0px;
+}
+.navbar-collapse{
+  margin: 25px 30px 0px 0px;
+  padding-bottom: 25px;
+  font-size: 18px;
+}
+.container{
+  max-width: 980px;
+}
+.nashville{
+  max-width: 980px;
+  margin:auto;
+}
+.countdown{
+  background-color: grey;
+  color: white;
+  text-align: center;
+  padding: 25px;
+  margin-bottom: 50px;
+
+}
+.spread{
+  margin: 20px;
+}
+.spread{
+  margin-left: 50px;
+  display: inline-block;
+}
+.button1{
+display: inline-block;
+margin-right: 200px;
+margin-left: 25px;
+}
+.button2{
+display: inline-block;
+margin-right: 200px;
+}
+.button3{
+  display: inline-block;
+}
+.pastor{
+  max-width: 980px;
+  display: inline-block;
+  float:left;
+  text-align: left;
+  margin-left: 100px;
+}
+.family{
+  display: inline-block;
+  margin-left: 15px;
+  margin-top: 25px;
+}
+.launchdate{
+  font-size: 48px;
+  background-color: grey;
+  padding: 15px;
+  text-align: center;
+  color: white;
+}
+.beginning{
+  max-width: 980px;
+  text-align: center;
+  margin: 0 auto;
+  margin-top: 25px; 
+}
+.input{
+  max-width: 980px;
+  margin: 0 auto;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.nursery{
+  float:left;
+  max-width: 980px;
+  text-align: left;
+  margin-left: 120px;
+  display:inline-block;
+}
+.kids{
+  display:inline-block;
+  max-width: 980px;
+  text-align: left;
+  float:right;
+  margin-right: 80px;
+}
+.students{
+  display:inline-block;
+  max-width: 980px;
+  text-align:left;
+  float: left;
+  margin-left: 120px;
+  margin-bottom: 50px;
+}
+.givebanner{
+  background-color: grey;
+  padding: 20px;
+  margin: 25px;
+  text-align: center;
+  color: white;
+}
+.graph{
+  max-width: 980px;
+  margin: 0 auto;
+}
+.podcast{
+  max-width: 980px;
+  float: left;
+  text-align: left;
+  display: inline;
+  margin: 50px 20px 20px 120px;
+}
