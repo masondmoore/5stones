@@ -25,8 +25,8 @@ a.navbar-brand{
   margin:auto;
 }
 .countdown{
-  background-color: grey;
-  color: white;
+  background-color: #cccccc;
+  color: black;
   text-align: center;
   padding: 25px;
   margin-bottom: 50px;
@@ -38,6 +38,9 @@ a.navbar-brand{
 .spread{
   margin-left: 50px;
   display: inline-block;
+}
+.button-white a{
+  color:white;
 }
 .button1{
 display: inline-block;
@@ -52,11 +55,9 @@ margin-right: 200px;
   display: inline-block;
 }
 .pastor{
-  max-width: 980px;
   display: inline-block;
-  float:left;
   text-align: left;
-  margin-left: 100px;
+  margin-bottom: 50px;
 }
 .family{
   display: inline-block;
@@ -65,7 +66,7 @@ margin-right: 200px;
 }
 .launchdate{
   font-size: 48px;
-  background-color: grey;
+  background-color: #cccccc;
   padding: 15px;
   text-align: center;
   color: white;
@@ -74,7 +75,7 @@ margin-right: 200px;
   max-width: 980px;
   text-align: center;
   margin: 0 auto;
-  margin-top: 25px; 
+  margin-top: 25px;
 }
 .input{
   max-width: 980px;
@@ -83,42 +84,51 @@ margin-right: 200px;
   margin-bottom: 50px;
 }
 .nursery{
-  float:left;
-  max-width: 980px;
   text-align: left;
-  margin-left: 120px;
-  display:inline-block;
+  display:inline;
+}
+.nurseryimg{
+  float:left;
+  display: inline;
+  margin-right: 25px;
+  margin-bottom: 25px;
 }
 .kids{
-  display:inline-block;
-  max-width: 980px;
+  display:inline;
   text-align: left;
-  float:right;
-  margin-right: 80px;
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+.kidsimg{
+  float: right;
+  display:inline;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  margin-left: 25px;
 }
 .students{
-  display:inline-block;
-  max-width: 980px;
+  display:inline;
   text-align:left;
+
+}
+.studentsimg{
+  display: inline;
   float: left;
-  margin-left: 120px;
-  margin-bottom: 50px;
+  margin-right: 25px;
+  margin-top: 25px;
 }
 .givebanner{
-  background-color: grey;
+  background-color: #cccccc;
   padding: 20px;
   margin: 25px;
   text-align: center;
-  color: white;
+  color: black;
 }
 .graph{
   max-width: 980px;
   margin: 0 auto;
 }
 .podcast{
-  max-width: 980px;
-  float: left;
   text-align: left;
   display: inline;
-  margin: 50px 20px 20px 120px;
 }
