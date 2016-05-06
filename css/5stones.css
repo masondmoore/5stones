@@ -91,7 +91,7 @@ margin-right: 200px;
   float:left;
   display: inline;
   margin-right: 25px;
-  margin-bottom: 25px;
+  margin-top: 12px;
 }
 .kids{
   display:inline;
@@ -103,19 +103,19 @@ margin-right: 200px;
   float: right;
   display:inline;
   margin-top: 25px;
-  margin-bottom: 25px;
+  margin-bottom: 44px;
   margin-left: 25px;
 }
 .students{
   display:inline;
   text-align:left;
+  margin-top: 34px;
 
 }
 .studentsimg{
   display: inline;
   float: left;
   margin-right: 25px;
-  margin-top: 25px;
 }
 .givebanner{
   background-color: #cccccc;
@@ -131,4 +131,7 @@ margin-right: 200px;
 .podcast{
   text-align: left;
   display: inline;
+}
+.graphpic{
+  margin-left:240px;  
 }
